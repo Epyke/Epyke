@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Henrique</h1>
+<h1 align="center">Hi there!</h1>
 <h3 align="center">I love coding challenges!</h3>
 
 - 🛠️ I’m currently working on [ClydeDS](https://github.com/Epyke/ClydeDS)
